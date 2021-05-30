@@ -18,7 +18,7 @@ PhpVersionString="8.0"
 
 # Configure a list of PHP extensions to install, change as needed.
 # The essential `common` and `cli` PHP packages for the desired PHP version will always be installed first.
-PhpExtensions="bcmath bz2 ctype curl fileinfo intl mbstring pcov pdo readline tokenizer xdebug xml zip"
+PhpExtensions="bcmath bz2 ctype curl fileinfo fpm intl mbstring pcov pdo readline tokenizer xdebug xml zip"
 
 
 #
